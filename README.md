@@ -1,0 +1,1 @@
+# lodac_template_shell
